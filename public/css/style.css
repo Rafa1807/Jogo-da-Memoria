@@ -5,8 +5,6 @@
     box-sizing: border-box;
 }
 
-
-
 body {
     font-family: 'Courier New', Courier, monospace;
     display: flex;
@@ -48,8 +46,6 @@ body {
     background-color: #05c3ff;
     font-size: 30px;
     font-weight: 900;
-
-    /* display: none;     */
 }
 
 #gameOver {

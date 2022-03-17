@@ -50,7 +50,7 @@ const ICON = "icon";
         if(face === FRONT){
             let iconElement = document.createElement('img');
             iconElement.classList.add(ICON);
-            iconElement.src = "../images/" + card.icon + ".png";
+            iconElement.src = "/static/images/" + card.icon + ".png";
             cardElementFace.appendChild(iconElement)
 
         }else {
